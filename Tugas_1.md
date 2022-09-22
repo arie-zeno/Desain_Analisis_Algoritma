@@ -8,7 +8,7 @@ NIM : 2110131310001
 ## Penjelasan Sederhana Tentang Kompleksitas Waktu dan Notasi Big-O
 
 
-<img src="img/1.png" style="width:40%">
+<img src="img/big01.png" style="width:40%">
 
 <br>
 <br>
@@ -75,7 +75,7 @@ Contoh diatas, terdapat sebuah fungsi untuk mengambil elemen pertama dari sebuah
 
 <br>
 <p align="center" >
-<img src="img/2.png" style="width:40%">
+<img src="img/big02.png" style="width:40%">
 </p>
 <br>
 <br>
@@ -131,7 +131,7 @@ Kita bisa melihat bahwa semakin banyak jumlah input yang diberikan, maka waktu p
 
 <br>
 <p align="center" >
-<img src="img/3.png" style="width:40%">
+<img src="img/big03.png" style="width:40%">
 </p>
 <br>
 <br>
@@ -159,7 +159,7 @@ Quadratic Time adalah ketika runtime dari fungsi kita adalah sebesar n^2, dimana
 
 <br>
 <p align="center" >
-<img src="img/4.png" style="width:40%">
+<img src="img/big04.png" style="width:40%">
 </p>
 <br>
 <br>
@@ -172,7 +172,7 @@ Waktu Eksponensial biasanya digunakan dalam situasi dimana kita tidak terlalu me
 
 <br>
 <p align="center" >
-<img src="img/5.png" style="width:40%">
+<img src="img/big05.png" style="width:40%">
 </p>
 <br>
 <br>
